@@ -1,6 +1,6 @@
 ```text
 The aim 01: To set up the initial project structure with Vue 3, TypeScript, and Tailwind CSS.
-Actual prompt: Create a basic Vue 3 SPA project using Vite and TypeScript. Set up Tailwind CSS for styling and create a simple navbar with a logo named "GROOKS".
+Actual prompt: Create a basic Vue 3 SPA project using Vite and TypeScript. Set up Tailwind CSS for styling and create a simple navbar with a logo named "VORA".
 
 The aim 02: To fetch and display products from the DummyJSON API with strict typing.
 Actual prompt: Write a Vue script to fetch products from 'https://dummyjson.com/products'. Define a TypeScript interface for the product object and display them in a responsive grid using a ProductCard component.
