@@ -1,0 +1,15 @@
+```text
+The aim 01: To set up the initial project structure with Vue 3, TypeScript, and Tailwind CSS.
+Actual prompt: Create a basic Vue 3 SPA project using Vite and TypeScript. Set up Tailwind CSS for styling and create a simple navbar with a logo named "GROOKS".
+
+The aim 02: To fetch and display products from the DummyJSON API with strict typing.
+Actual prompt: Write a Vue script to fetch products from 'https://dummyjson.com/products'. Define a TypeScript interface for the product object and display them in a responsive grid using a ProductCard component.
+
+The aim 03: To implement category filtering and a real-time search bar.
+Actual prompt: Add a category filter bar using 'All Categories', 'Beauty', 'Fragrances', etc. Also, implement a search function where products filter instantly as the user types in the search bar. Use Pinia to share the search query between the NavBar and HomeView.
+
+The aim 04: To build a dynamic product detail view and a shopping cart with Pinia.
+Actual prompt: Set up Vue Router for dynamic routing like '/product/:id'. Create a ProductDetailView. Create a Pinia store for a shopping cart that allows users to add/remove items and calculate the total price.
+
+The aim 05: To simulate authentication (Login/Register) and implement Dark Mode.
+Actual prompt: Create a Login and Register view using DummyJSON auth endpoints. Store the JWT in localStorage. Implement a Dark Mode toggle using Tailwind's dark modifier and persist the setting in a Pinia store.
